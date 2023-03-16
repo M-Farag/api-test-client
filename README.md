@@ -7,3 +7,7 @@ It is a rust CLI tool to help testing Restful API endpoints
 - The tool will read JSON Schema and generate the configuration file within the namespace
 - QC Team can use the tool to test different collections on the go
 - QC Team can modify the generated configuration files
+
+
+### Concepts
+- CLI tool that can generate and read a config file
